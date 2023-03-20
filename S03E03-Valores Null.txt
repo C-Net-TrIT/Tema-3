@@ -1,0 +1,40 @@
+// Este comentario es de una sola linea
+
+/*
+Este es mi comentario de multiples
+lineas para mi curso de c# y .net core
+*/
+
+string nombre = "Vaxi Drez";
+var url = "https://vaxidrez.com";
+
+int miNumeroEntero = 100;
+int otroNumeroEntero = -500;
+
+float miFloatNumero = 62.36f;
+
+double miDoubleNumero = 96.25;
+
+decimal miDecimal = 487.567m;
+
+byte miNumeroPequeno = 7;
+
+bool statusProducto = true;
+
+string miCadena = "Esta es mi cadena de texto";
+char miCaracter = 'A';
+
+miCadena = "Esta es mi nueva cadena de texto";
+
+
+const int miContanteNumerica = 500;
+
+string cuentaBancaria = "100500";
+
+bool? miVariableNull = null;
+int? miNumeroNull = null;
+
+string miCadenaNull = null;
+
+
+Console.WriteLine("Hola Alumnos del curso de c# " + nombre + " url : " + url );
